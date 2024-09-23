@@ -44,7 +44,7 @@ Das Skript filtert doppelte Nachrichten und verhindert, dass bereits am Vortag g
 
    Klonen Sie das Repository von GitHub auf Ihren lokalen Rechner:
 
-   git clone https://github.com/IhrBenutzername/it-security-news-bot.git
+   git clone https://github.com/Heimdall-42/it-security-news-bot.git
    cd it-security-news-bot
 
 3. **Virtuelle Umgebung einrichten (optional, aber empfohlen):**
