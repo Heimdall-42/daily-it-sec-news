@@ -207,6 +207,3 @@ Beiträge sind willkommen! Bitte folgen Sie diesen Schritten, um einen Beitrag z
 4. Pushen Sie den Branch (git push origin feature/NeueFunktion).
 5. Erstellen Sie einen Pull-Request.
 
-## Lizenz
-
-Dieses Projekt ist unter der MIT Lizenz lizenziert. Weitere Informationen finden Sie in der Lizenzdatei.
